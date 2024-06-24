@@ -28,7 +28,7 @@ namespace WebApi.BookOperations.CreateBook
         }
 
     }
-    public class CreateBookModel()
+    public class CreateBookModel
     {
         public string Title { get; set; }
         public int GenreId { get; set; }

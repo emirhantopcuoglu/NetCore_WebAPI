@@ -28,7 +28,7 @@ namespace WebApi.BookOperations.GetBooks
             return vm;
         }
     }
-    public class BooksViewModel()
+    public class BooksViewModel
     {
         public string Title { get; set; }
         public int PageCount { get; set; }

@@ -33,3 +33,4 @@ C:\Users\emirh\source\repos\WebApi\WebApi\obj\Debug\net8.0\ref\WebApi.dll
 C:\Users\emirh\source\repos\WebApi\WebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
 C:\Users\emirh\source\repos\WebApi\WebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
 C:\Users\emirh\source\repos\WebApi\WebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\emirh\source\repos\WebApi\WebApi\obj\Debug\net8.0\WebApi.sourcelink.json
